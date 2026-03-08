@@ -25,12 +25,12 @@ sidebar_position: 4.3
 拓展模板选择：WordPress
 
 :::warning
-注意：默认扩展需要删除`pdo_mysql`并添加`ionCube`
+注意：默认扩展需要删除`pdo_mysql`并添加`sg16`
 :::
 
 最终的扩展列表
 
-![图片 7](https://img.1v.fit/2026/02/27/CIp.png)
+![kuozhan](https://img.1v.fit/2026/03/09/smw.png)
 
 确认无误后单击确认按钮即可，此过程取决你的速度
 
