@@ -94,7 +94,7 @@ const config: Config = {
           label: '文档',
         },
         {to: 'https://www.qiimeng.com/', label: '官方网站', position: 'left'},
-        {to: 'https://dildil.icu/', label: '官方演示站', position: 'left'},
+        {to: 'https://demo.qiimeng.com/', label: '官方演示站', position: 'left'},
         {
           type: 'localeDropdown',
           position: 'right',
@@ -122,7 +122,7 @@ const config: Config = {
           title: '关于我们',
           items: [
             {
-              label: '官方网站(建设中)',
+              label: '官方网站',
               href: 'https://www.qiimeng.com/',
             },
             {
@@ -130,8 +130,8 @@ const config: Config = {
               href: 'https://qm.qq.com/q/OWGdraSf84',
             },
             {
-              label: '滥用举报(建设中)',
-              href: 'https://www.qiimeng.com/',
+              label: '滥用举报',
+              href: 'https://qiimeng.com/auth-check/',
             },
           ],
         },
@@ -139,8 +139,8 @@ const config: Config = {
           title: '更多',
           items: [
             {
-              label: '论坛',
-              to: 'https://www.qiimeng.com/bbs',
+              label: '论坛(建设中)',
+              to: 'https://www.qiimeng.com/',
             },
             {
               label: '云电工作室',
