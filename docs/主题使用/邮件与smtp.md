@@ -11,6 +11,7 @@ sidebar_position: 5.96
 
 ## SMTP 服务器参数
 ![](https://a1.boltp.com/2026/02/27/69a1bd430c74e.png)
+
 ### SMTP 服务器地址
 填写你所使用的邮箱服务商提供的 SMTP 发信服务器地址。
 
